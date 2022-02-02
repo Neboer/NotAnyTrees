@@ -1,0 +1,19 @@
+{
+  "name": "cutter",
+  "version": "1.0.0",
+  "description": "a minecraft bot",
+  "main": "src_bk/index.js",
+  "author": "Neboer",
+  "license": "MIT",
+  "dependencies": {
+    "@types/config": "^0.0.41",
+    "minecraft-data": "^2.69.1",
+    "mineflayer": "^3.15.0",
+    "mineflayer-pathfinder": "^1.9.1",
+    "vec3": "^0.1.7"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.2",
+    "@types/node": "^17.0.11"
+  }
+}
